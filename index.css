@@ -11,21 +11,22 @@ header{
     width:100vw;
     height:50px;
 background-color: aquamarine;
-display: flex;
+text-align: center;
+}
+ul a{
+    text-align: center;
 }
 .inner_header ul{
 display: inline;
 font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 font-size: 15px;
 padding-left: 30px;
-align-items: center;
-justify-content: center;
+text-align: center;
 }
 a{
     text-decoration: none;
 color: black;
-align-items: center;
-justify-content: center;
+text-align: center;
 }
 .specialities{
     width:100vw;
